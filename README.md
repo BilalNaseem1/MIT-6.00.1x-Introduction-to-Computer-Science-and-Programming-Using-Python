@@ -2,7 +2,7 @@
 Provided by MIT
 
 ## Overview
-This course is the first of a two-course sequence: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0), and [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2) by MIT on [edX](https://www.edx.org) platform.
+This course is the first of a two-course sequence: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0), and [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2) by MIT on [edX](https://www.edx.org).
 
 This course covers:
 - A Notion of computation
